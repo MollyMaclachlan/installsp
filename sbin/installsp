@@ -10,7 +10,7 @@
 # For more information, see /usr/doc/installsp/LICENSE or creativecommons.org.
 
 USAGE="Usage: installsp [-hlv] -p package [-u library_to_upgrade] [-r repository]"
-VERSION="1.0.0"
+VERSION="1.0.1"
 
 # Import config options
 source "/usr/share/installsp/config.sh"
